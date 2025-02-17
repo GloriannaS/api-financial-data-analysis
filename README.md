@@ -9,6 +9,6 @@ The two main questions we will be answering in this project are:
 - How do the Accrued Expenses Turnover amounts from each company change and compare with each other over a certain period?
 - How does the average Accrued Expenses Turnover amount from each country differ from that of other regions?
 
-[![Data Cleaning with Employee Exit Surveys](combining_data.png)](https://colab.research.google.com/drive/1dF_cw9aWtN3vwq_zsoEcWjAklW2kdM5R?usp=sharing)
+[![Data Cleaning with Employee Exit Surveys](api_analysis.png)](https://colab.research.google.com/drive/1dF_cw9aWtN3vwq_zsoEcWjAklW2kdM5R?usp=sharing)
 
 View this project live on Google Colab [here](https://colab.research.google.com/drive/1dF_cw9aWtN3vwq_zsoEcWjAklW2kdM5R?usp=sharing).
